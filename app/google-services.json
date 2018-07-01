@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228922525637",
+    "firebase_url": "https://journal-app-52fac.firebaseio.com",
+    "project_id": "journal-app-52fac",
+    "storage_bucket": "journal-app-52fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228922525637:android:ca99b14da4271a5f",
+        "android_client_info": {
+          "package_name": "com.example.gamor.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228922525637-teb37kpsoq6bg5b7learlstjbitcqe0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamor.journalapp",
+            "certificate_hash": "4b807ac3c2b787e4c6a543d0be7f9447c47ac5b1"
+          }
+        },
+        {
+          "client_id": "228922525637-m4e1pkcrh07a17qb5lb87a18rlu054lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOF_3nJESDq35fm9iIksf3tNLnafMBNXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228922525637-m4e1pkcrh07a17qb5lb87a18rlu054lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
